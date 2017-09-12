@@ -1,6 +1,8 @@
 # Ebb_Flow
 **Dao of Web Design**
 
+
+
 From reading this article it brings many things to light and different opinions that a lot of
 people have an opposition for. Paper, paint, graphite medias being considered archaic is
 something artists and people who are not artistically driven, can be seen as a falsehood. To most
