@@ -43,7 +43,7 @@
 
 ## About the Author 
 # John Bartolomeu
-![selfie image for about the author](img/selfie.jpg)
+![selfie image for about the author](img/headshot-john-bartolomeu.jpg)
 - John Bartolomeu is a 23 year old Graphic Designer/Illustrator from Somerville, Ma. You can find him either doodling in a sketch book or going to check out the latest movie at the theater. Currently a student at Montserrat College of Art in his junior year majoring in Graphic Design.
 
 - - -
