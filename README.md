@@ -49,7 +49,7 @@
 - - -
 # Final 
 
-- [index.html](file:///Users/John/Desktop/Web%20Authoring/ebb-flow/index.html
+- [index.html](https://johnbartolomeu.github.io/ebb_flow/summary.html)
 - [summary.html](https://johnbartolomeu.github.io/ebb_flow/summary.html)
 - [summary.md](https:/johnbartolomeu.github.io/ebb_flow/summary.md)
 
